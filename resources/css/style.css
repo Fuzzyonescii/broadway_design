@@ -34,5 +34,12 @@
 }
 
 .process p {
-  font-size: 14px;  
+  font-size: 14px;
+}
+
+p.solo  {
+  background-image: url('../media/the-flatiron-building.png');
+  font-size: 23;
+  font-weight: bold;
+  color: white;
 }
