@@ -43,3 +43,13 @@ p.solo  {
   font-weight: bold;
   color: white;
 }
+
+/* Instead of making a global h3, keep them seperate for easier modification of individual sections */
+.info h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.info p {
+  font-size: 14px;
+}
