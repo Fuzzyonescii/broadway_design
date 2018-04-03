@@ -53,3 +53,19 @@ p.solo  {
 .info p {
   font-size: 14px;
 }
+
+/* The model site has the nav links at 11px, but the deisng mock shows the same links at a larger size than 11px */
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+.footer span {
+font-size: 11px;
+}
+
+.footer a {
+  color: white;
+}
